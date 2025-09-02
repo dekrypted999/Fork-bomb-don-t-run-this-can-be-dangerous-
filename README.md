@@ -1,2 +1,2 @@
-# Fork-bomb-don-t-run-this-can-be-dangerous-
-Warning : do not run this on your devices run this on a VM (virtual machine) you have been warned
+#this is a simple batch script that makes it look like your hacking
+
